@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Task UI
+
+The goal of this web app is to toy with a React App that connects to an API service [Task API](https://github.com/Hildorien/task-api/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
